@@ -6,3 +6,5 @@ This Python project performed sentiment analysis on opinion pieces from varying 
 
 The results showed that seven out of the nine opinion pieces scored had very negative sentiment score, and the one with a moderately negative score and the one with a positive score were actually from a conservative background. In reviewing the individual sentence sentiment scores, I believe this was due to specific language techniques used in both articles rather than an actually more positive opinion regarding the operation. In conclusion, my hypothesis was rejected, as it did not appear that political leanings correlated with a significant difference in sentiment score.
 
+See project notebook [here](https://github.com/jrdalman7/TextAnalysisFinal/blob/main/Python%20Final%20Project.ipynb).
+
