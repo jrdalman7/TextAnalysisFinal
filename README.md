@@ -1,6 +1,6 @@
 # Python Final Project: Sentiment Analysis on Balloon Takedown Opinion Pieces
 
-Abstract
+Abstract:
 
 This Python project performed sentiment analysis on opinion pieces from varying political backgrounds written in response to the Biden Administration's decision to shoot down the Chinese surveillance balloon off the coast of South Carolina in February 2023. My research question was, did the background political leanings of an opinion piece regarding the balloon incident meaningfully contribute to a difference in the sentiment of the writing? I hypothesized that the political leanings of the author and publication would influence the sentiment of the opinion pieces published in response. Specifically, I hypothesized that opinion pieces that originated from conservative authors and publications would produce a more negative sentiment score, and pieces that originated from more left-leaning publications would have a more positive sentiment score.
 
